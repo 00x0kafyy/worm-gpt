@@ -1,8 +1,7 @@
-# worm-gpt Ai
+# 🚫 Project Archived / Moved
 
-### IMG OF WORM
-![Demo](https://raw.githubusercontent.com/00x0kafyy/worm-gpt-/refs/heads/main/img/Screenshot%202025-06-27%20203427.png)
+> ⚠️ This repository is no longer maintained.  
+> WormGPT has been moved to a new repository:  
+> 👉 **https://github.com/00x0kafyy/worm-ai**
 
-### EXAMPLE SENSITIVE INFORMATION
-![Demo](https://raw.githubusercontent.com/00x0kafyy/worm-gpt-/refs/heads/main/img/Screenshot%202025-06-27%20203321.png)
-
+Please use the new version for latest updates and functionality.
